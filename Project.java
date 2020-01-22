@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class Assignment_3_2018349_1
+public class Project
 {
 	static class Runner
 	{

@@ -1,10 +1,10 @@
 # Multiple-Marathon-Winner-Calculator
 
-## Introduction
+### Introduction
 
 A java application to calculate top 2 runners of 3 types of marathons.
 
-## Running Command
+### Running Command
 
 `javac Project.java && java Proejct`
 
